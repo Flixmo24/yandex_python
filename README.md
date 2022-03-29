@@ -1,3 +1,3 @@
-# yandex_python_TelegrammBOT
+# yandex_python_Telega
 
 Бот для телеграмма который будет воспроизводить видео с платформы YouTube, переводя их в аудио формат.
